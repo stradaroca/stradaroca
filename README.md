@@ -5,6 +5,10 @@ Use https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 # 🙋🏽‍♂️ Hi, I'm Abdías
 
+### My goal is to be part of an educational change for kids through technology. 👩🏻‍🚀👨🏿‍🔬👩🏼‍🏭
+
+![Acompañamos tu aprendizaje](https://res.cloudinary.com/abdias32/image/upload/v1621128050/Chuac%C3%BAs/chuacus-url_g0kvr7.png "#AcompañamosTuAprendizaje")
+
 ### Highly interested in being an expert in Mobile Development Multiplatform. 📲🧡
 
 - 🔭 I’m currently working on [Chuacús](https://chuacus.com/)
@@ -72,10 +76,6 @@ Use https://rahuldkjain.github.io/gh-profile-readme-generator/
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 
 <hr>
-
-### My goal is to be part of an educational change for kids through technology. 👩🏻‍🚀👨🏿‍🔬👩🏼‍🏭
-
-![Acompañamos tu aprendizaje](https://res.cloudinary.com/abdias32/image/upload/v1621128050/Chuac%C3%BAs/chuacus-url_g0kvr7.png "#AcompañamosTuAprendizaje")
 
 ### Support:
 
