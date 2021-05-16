@@ -73,7 +73,7 @@ Use https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <hr>
 
-### My goal
+### My Goal
 
 To be part of an educational change for kids through technology. 👩🏻‍🚀👨🏿‍🔬👩🏼‍🏭
 
