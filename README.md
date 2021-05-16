@@ -73,9 +73,7 @@ Use https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <hr>
 
-### My Goal
-
-To be part of an educational change for kids through technology. 👩🏻‍🚀👨🏿‍🔬👩🏼‍🏭
+### My goal is to be part of an educational change for kids through technology. 👩🏻‍🚀👨🏿‍🔬👩🏼‍🏭
 
 ![Acompañamos tu aprendizaje](https://res.cloudinary.com/abdias32/image/upload/v1621128050/Chuac%C3%BAs/chuacus-url_g0kvr7.png "#AcompañamosTuAprendizaje")
 
