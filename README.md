@@ -7,7 +7,7 @@ Use https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ### My goal is to be part of an educational change for kids through technology. 👩🏻‍🚀👨🏿‍🔬👩🏼‍🏭
 
-![Acompañamos tu aprendizaje](https://res.cloudinary.com/abdias32/image/upload/v1621128050/Chuac%C3%BAs/chuacus-url_g0kvr7.png "#AcompañamosTuAprendizaje")
+![Acompañamos tu aprendizaje](https://res.cloudinary.com/abdias32/image/upload/v1635027335/Chuac%C3%BAs/Website/chuacus-url_twy3hl.png "#AcompañamosTuAprendizaje")
 
 ### Highly interested in being an expert in Mobile Development Multiplatform. 📲🧡
 
