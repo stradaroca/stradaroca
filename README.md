@@ -1,33 +1,35 @@
 <!--
-**abdias32/abdias32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**stradaroca/stradaroca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Use https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
-# 🙋🏽‍♂️ Hi, I'm Abdías
+# 🙋🏽‍♂️ Hi, my name is Abdías
 
-### My goal is to be part of an educational change for kids through technology. 👩🏻‍🚀👨🏿‍🔬👩🏼‍🏭
+I'm a software engineer specializing in mobile, backend, and data development. As the son of teachers, I have a passion for education and have also worked on projects supporting rural youth and educators.
+
+#### I strive to contribute to a technological transformation that guarantees nobody is left behind. 👩🏻‍🚀👨🏿‍🔬👩🏼‍🏭
 
 ![Acompañamos tu aprendizaje](https://res.cloudinary.com/abdias32/image/upload/v1635027335/Chuac%C3%BAs/Website/chuacus-url_twy3hl.png "#AcompañamosTuAprendizaje")
 
-### Highly interested in being an expert in Mobile Development Multiplatform. 📲🧡
+## My current interest lies in combining data analysis with mobile development. 📲🧡
 
-- 🔭 I’m currently working on [Chuacús](https://chuacus.com/)
+- 🔭 I’m currently working on [unJarrito](https://unjarrito.lat)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning [Flutter](https://flutter.dev)
 
-- 👯 I’m looking to collaborate on [Education](https://calendly.com/chuacus/)
+- 👯 I’m looking to collaborate on [Education](https://calendly.com/unjarrito)
 
-- 🤝 I’m looking for help with [Alpatio](https://play.google.com/store/apps/details?id=com.chuacus.alpatio)
+- 🤝 I’m looking for help with [Guaderno](https://play.google.com/store/apps/details?id=com.chuacus.alpatio)
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/chuacus](https://linktr.ee/chuacus)
+- 👨‍💻 All of my projects are available at [stradaroca.site](https://stradaroca.site)
 
-- 📝 I regularly write articles on [https://chuacus.com/bitacora](https://chuacus.com/bitacora)
+- 📝 I regularly write articles on [unjarrito.lat/bitacora](https://unjarrito.lat/bitacora)
 
 - 💬 Ask me about **Computer's science and k12 education**
 
-- 📫 How to reach me **abdias@chuacus.com**
+- 📫 How to reach me **stradaroca.eng@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tzubikk/](https://www.linkedin.com/in/tzubikk/)
+- 📄 Know about my experiences [linkedin.com/in/stradaroca](https://www.linkedin.com/in/stradaroca)
 
 - 🎷 Fun fact **I'm a newbie playing harmonica**
 
